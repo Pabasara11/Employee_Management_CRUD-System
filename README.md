@@ -238,3 +238,7 @@ Then open **http://localhost:3000** in your browser.
 | CORS error in browser             | Make sure backend is running and `API_BASE_URL` in `config.js` is correct |
 | PowerShell execution policy error | Run: `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`                |
 | `employees.db` locked             | Close any SQLite browser tools (e.g. DB Browser) that have the file open  |
+<<<<<<< HEAD
+=======
+
+>>>>>>> 549ff93db15457973ac87cf81e4bee5d544f0a8a
